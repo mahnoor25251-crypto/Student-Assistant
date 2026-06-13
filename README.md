@@ -1,7 +1,7 @@
 # Student-Assistant
 student-assistant-system
 
-A Python-based university management system built with core Python fundamentals.
+A Python-based Student assistant system built with core Python fundamentals.
 
 ## Features
 - Bulk student registration with validation
